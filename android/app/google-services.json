@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734282282519",
+    "project_id": "fireside-chat-acb1d",
+    "storage_bucket": "fireside-chat-acb1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734282282519:android:6861f883b39aba0192ce52",
+        "android_client_info": {
+          "package_name": "com.mehedihasan.chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXB_FZPC8YWxFuaWuuFvCPlQIFtcpCSrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
